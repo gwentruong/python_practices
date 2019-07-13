@@ -4,7 +4,7 @@
 **Clone this repo**
 
 ```
-git clone
+git clone https://github.com/gwentruong/python_practices.git
 ```
 
 **Instructions**
