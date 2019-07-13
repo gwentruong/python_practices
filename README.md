@@ -12,7 +12,7 @@ git clone https://github.com/gwentruong/python_practices.git
 - Clone this repo to your local
 - Place the assignments you have done for each week to the according directory
 - Name the assignment with your name `assignment_diem.py`
-- To make this simple, just stick to the master branch and your file only
+- To make this simple, just stick to the master branch and your files only
 - Follow this patterns when you want to commit new version of your file
 
 ```
